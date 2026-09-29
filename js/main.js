@@ -240,7 +240,20 @@ document.addEventListener('DOMContentLoaded', () => {
       lblProduct: "Product of Interest",
       lblQty: "Estimated Monthly Quantity",
       lblNotes: "Specific Requirements / Inquiries",
-      btnSubmitForm: "Send Formal Inquiry"
+      btnSubmitForm: "Send Formal Inquiry",
+      
+      footerDesc: "PT BUMI LANGIT KOMODITAS is a trusted direct exporter and spices supplier from Indonesia. With over 15+ years of experience providing international-quality vanilla and spices sourced directly from partner farmers.",
+      footerFacility: "📍 Indonesia Export Ready Facility",
+      footerNavTitle: "Navigation",
+      footerLinkProducts: "Product Catalogue",
+      footerLinkWhy: "Partner Advantages",
+      footerLinkFacilities: "Facilities & Gallery",
+      footerProductsTitle: "Featured Products",
+      footerProduct1: "Natural Vanilla Beans Grade A",
+      footerProduct2: "Pure Vanilla Powder 100%",
+      footerProductSample: "Official Sample Request",
+      footerContactTitle: "Official Contact",
+      footerCopyright: "© 2026 PT BUMI LANGIT KOMODITAS. All Rights Reserved. Direct Exporter and Spices Supplier."
     },
     id: {
       navHome: "Beranda",
@@ -351,7 +364,20 @@ document.addEventListener('DOMContentLoaded', () => {
       lblProduct: "Produk yang Diminati",
       lblQty: "Estimasi Kebutuhan / Bulan",
       lblNotes: "Catatan / Spesifikasi Khusus",
-      btnSubmitForm: "Kirim Permintaan Resmi"
+      btnSubmitForm: "Kirim Permintaan Resmi",
+      
+      footerDesc: "PT BUMI LANGIT KOMODITAS adalah eksportir langsung dan pemasok rempah terpercaya dari Indonesia. Berpengalaman lebih dari 15 tahun menyediakan vanili dan rempah berkualitas internasional langsung dari petani binaan.",
+      footerFacility: "📍 Fasilitas Ekspor Siap Kirim Indonesia",
+      footerNavTitle: "Navigasi",
+      footerLinkProducts: "Katalog Produk",
+      footerLinkWhy: "Keunggulan Mitra",
+      footerLinkFacilities: "Fasilitas & Galeri",
+      footerProductsTitle: "Produk Unggulan",
+      footerProduct1: "Natural Vanilla Beans Grade A",
+      footerProduct2: "Pure Vanilla Powder 100%",
+      footerProductSample: "Permintaan Sampel Resmi",
+      footerContactTitle: "Kontak Resmi",
+      footerCopyright: "© 2026 PT BUMI LANGIT KOMODITAS. All Rights Reserved. Direct Exporter and Spices Supplier."
     }
   };
 

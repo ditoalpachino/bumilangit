@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - /bin/cp -R * ~/public_html
+    - /bin/cp .htaccess ~/public_html/ 2>/dev/null || true

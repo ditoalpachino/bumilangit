@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.bumilangitkomoditas.com/sitemap.xml

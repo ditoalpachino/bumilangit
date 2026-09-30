@@ -175,6 +175,16 @@ document.addEventListener('DOMContentLoaded', () => {
       productsTitle: "Our Product Catalogue",
       productsSubtitle: "Cultivated in optimal microclimates, hand-sorted, and export-cured to international food & culinary standards.",
       
+      lblProductGrade: "Product Grade:",
+      lblSpecification: "Specification:",
+      lblLength: "Length:",
+      lblMoisture: "Moisture Content:",
+      lblComposition: "Composition:",
+      lblCharacteristics: "Characteristics:",
+      lblPackaging: "Packaging:",
+      lblCapacity: "Capacity:",
+      lblSampleRequest: "Sample Request:",
+      
       p1Title: "PREMIUM NATURAL VANILLA BEANS",
       p1Desc: "Grade A Planifolia gourmet vanilla beans with lush moisture, deep mahogany sheen, and exceptional vanillin content.",
       p1Grade: "Grade A (Dark Brown / Planifolia)",
@@ -298,6 +308,16 @@ document.addEventListener('DOMContentLoaded', () => {
       productsTag: "Katalog Produk Unggulan",
       productsTitle: "Katalog Produk Kami",
       productsSubtitle: "Ditanam pada iklim mikro ideal, disortir cermat, dan dikeringkan secara presisi untuk kebutuhan kuliner serta manufaktur pangan internasional.",
+      
+      lblProductGrade: "Kualitas Produk:",
+      lblSpecification: "Spesifikasi:",
+      lblLength: "Panjang:",
+      lblMoisture: "Kadar Air:",
+      lblComposition: "Komposisi:",
+      lblCharacteristics: "Karakteristik:",
+      lblPackaging: "Kemasan:",
+      lblCapacity: "Kapasitas:",
+      lblSampleRequest: "Permintaan Sampel:",
       
       p1Title: "PREMIUM NATURAL VANILLA BEANS (POLONG VANILI)",
       p1Desc: "Polong vanili Planifolia Grade A gourmet dengan aroma pekat, kilau mahoni alami, serta kadar vanilin tinggi.",
